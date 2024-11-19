@@ -5,9 +5,12 @@ https://github.com/ChivitosUAX/examen-parcial3-esteban-arosemena.git
 **Parte 1: Preguntas de elección múltiple (20%)**
 
 **¿Cuál es la principal diferencia entre la estructura básica del programa en C y C++?**
+
 Respuesta: `b) C utiliza printf y scanf mientras que C++ utiliza std::cout y std::cin.`
+
 Justificacion: `En C, las funciones de entrada y salida como printf y scanf son parte de la biblioteca estándar <stdio.h>.
 En C++, se usan objetos como std::cout y std::cin para entrada y salida, que son parte de la biblioteca de flujo de entrada/salida <iostream>`
+
 
 **¿Qué es un espacio de nombres en C++?**
 Respuesta: `a) Una característica que permite agrupar entidades como clases, objetos y funciones bajo un nombre.`
