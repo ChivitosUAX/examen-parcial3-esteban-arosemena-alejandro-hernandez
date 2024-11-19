@@ -14,16 +14,20 @@ En C++, se usan objetos como std::cout y std::cin para entrada y salida, que son
 
 
 **¿Qué es un espacio de nombres en C++?**
+
 Respuesta: 
 `a) Una característica que permite agrupar entidades como clases, objetos y funciones bajo un nombre.`
+
 Justificacion: 
 `Un espacio de nombres (namespace) en C++ organiza y encapsula identificadores para evitar conflictos, especialmente en proyectos grandes o al usar bibliotecas externas.`
 
 
 
 **En programación orientada a objetos en C++, ¿qué es una clase?**
+
 Respuesta: 
 `d) Una plantilla para crear objetos, proporciona una definición inicial para el estado (miembros de datos) y el comportamiento (miembros de la función).`
+
 Justificacion: 
 `Una clase es un concepto fundamental en la programación orientada a objetos. Sirve como una plantilla que define las propiedades.`
 
