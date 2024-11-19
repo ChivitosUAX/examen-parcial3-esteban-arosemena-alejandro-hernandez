@@ -1,6 +1,6 @@
 # examen-parcial3-esteban-arosemena-alejandro-hernandez
 
-https://github.com/ChivitosUAX/examen-parcial3-esteban-arosemena.git
+https://github.com/ChivitosUAX/examen-parcial3-esteban-arosemena-alejandro-hernandez.git
 
 **Parte 1: Preguntas de elección múltiple (20%)**
 
