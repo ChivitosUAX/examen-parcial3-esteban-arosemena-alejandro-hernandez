@@ -10,7 +10,7 @@ struct Estudiante {
     float promedio;
 };
 
-// Declaraciones de funciones específicas de C++
+// Declaraciones de funciones para C++
 void crearEstudiante_CPP();
 void mostrarEstudiante_CPP(const Estudiante& estudiante);
 
