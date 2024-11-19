@@ -1,10 +1,10 @@
-#include "C/estudiante.h"
-#include "C/materias.h"
-#include "C/asistencia.h"
+#include "c/estudiante.h"
+#include "c/materias.h"
+#include "c/asistencia.h"
 
-#include "C++/estudiante.h"
-#include "C++/materias.h"
-#include "C++/asistencia.h"
+#include "c++/estudiante.h"
+#include "c++/materias.h"
+#include "c++/asistencia.h"
 
 #include <iostream>
 
