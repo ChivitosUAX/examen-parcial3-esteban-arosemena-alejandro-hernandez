@@ -34,6 +34,9 @@ Justificacion:
 
 
 **¿Qué son los templates en C++?**
+
 Respuesta: 
-`b) Permiten la creación de funciones y clases genéricas, es decir, que pueden trabajar con cualquier tipo de datos.` Justificacion: 
+`b) Permiten la creación de funciones y clases genéricas, es decir, que pueden trabajar con cualquier tipo de datos.` 
+
+Justificacion: 
 `Los templates (plantillas) en C++ permiten definir funciones y clases de manera genérica, lo que facilita escribir código que funcione con cualquier tipo de datos sin necesidad de duplicarlo para cada tipo. Son especialmente útiles para estructuras de datos y algoritmos reutilizables.`
