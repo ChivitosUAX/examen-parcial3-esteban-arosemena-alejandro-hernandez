@@ -2,7 +2,7 @@
 
 https://github.com/ChivitosUAX/examen-parcial3-esteban-arosemena-alejandro-hernandez.git
 
-**Parte 1: Preguntas de elección múltiple (20%)**
+## **Parte 1: Preguntas de elección múltiple (20%)**
 
 **¿Cuál es la principal diferencia entre la estructura básica del programa en C y C++?**
 
@@ -40,3 +40,5 @@ Respuesta:
 
 Justificacion: 
 `Los templates (plantillas) en C++ permiten definir funciones y clases de manera genérica, lo que facilita escribir código que funcione con cualquier tipo de datos sin necesidad de duplicarlo para cada tipo. Son especialmente útiles para estructuras de datos y algoritmos reutilizables.`
+
+***
