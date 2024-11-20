@@ -18,4 +18,5 @@ add_executable(examen_parcial3_esteban_arosemena_alejandro_hernandez
         c/materias.c
         c/materias.h
         README.md
+        main.cpp
 )

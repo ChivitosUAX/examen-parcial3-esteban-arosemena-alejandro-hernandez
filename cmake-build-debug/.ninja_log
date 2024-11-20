@@ -1,10 +1,8 @@
 # ninja log v6
-5	309	7537166745088208	build.ninja	2f4cea3b614ba0b4
+5	309	7537412478015804	build.ninja	2f4cea3b614ba0b4
+414	582	7537166749670772	CMakeFiles/examen_parcial3_esteban_arosemena_alejandro_hernandez.dir/c/materias.c.obj	36e2139b43e0797e
 72	413	7537166746245021	CMakeFiles/examen_parcial3_esteban_arosemena_alejandro_hernandez.dir/c/asistencia.c.obj	153c0edd855c31a5
 108	438	7537166746602627	CMakeFiles/examen_parcial3_esteban_arosemena_alejandro_hernandez.dir/c/estudiante.c.obj	6661e90616408700
-414	582	7537166749670772	CMakeFiles/examen_parcial3_esteban_arosemena_alejandro_hernandez.dir/c/materias.c.obj	36e2139b43e0797e
-31	833	7537166745839015	CMakeFiles/examen_parcial3_esteban_arosemena_alejandro_hernandez.dir/c++/estudiante.cpp.obj	1b2aa21918a70663
+19	465	7537171771286020	CMakeFiles/examen_parcial3_esteban_arosemena_alejandro_hernandez.dir/c++/estudiante.cpp.obj	1b2aa21918a70663
 17	947	7537166745698440	CMakeFiles/examen_parcial3_esteban_arosemena_alejandro_hernandez.dir/c++/asistencia.cpp.obj	33d71c1a466cc42b
 43	978	7537166745964455	CMakeFiles/examen_parcial3_esteban_arosemena_alejandro_hernandez.dir/c++/materias.cpp.obj	eecc36ea51edae67
-16	477	7537168232648084	CMakeFiles/examen_parcial3_esteban_arosemena_alejandro_hernandez.dir/c++/estudiante.cpp.obj	1b2aa21918a70663
-19	465	7537171771286020	CMakeFiles/examen_parcial3_esteban_arosemena_alejandro_hernandez.dir/c++/estudiante.cpp.obj	1b2aa21918a70663

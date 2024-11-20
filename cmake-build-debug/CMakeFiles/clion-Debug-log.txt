@@ -1,11 +1,4 @@
 "C:\Program Files\JetBrains\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2024.2.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\esteb\CLionProjects\examen-parcial3-esteban-arosemena-alejandro-hernandez -B C:\Users\esteb\CLionProjects\examen-parcial3-esteban-arosemena-alejandro-hernandez\cmake-build-debug
-CMake Error at CMakeLists.txt:9 (add_executable):
-  add_executable cannot create target
-  "examen_parcial3_esteban_arosemena_alejandro_hernandez" because another
-  target with the same name already exists.  The existing target is an
-  executable created in source directory
-  "C:/Users/esteb/CLionProjects/examen-parcial3-esteban-arosemena-alejandro-hernandez".
-  See documentation for policy CMP0002 for more details.
-
-
--- Configuring incomplete, errors occurred!
+-- Configuring done (0.5s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/esteb/CLionProjects/examen-parcial3-esteban-arosemena-alejandro-hernandez/cmake-build-debug
