@@ -150,4 +150,10 @@ C++: La implementación en C++ es más moderna, aprovechando características co
 1. En cpp: ./examen_parcial3_esteban_arosemena_alejandro_hernandez_CPP
 2. En c: ./examen_parcial3_esteban_arosemena_alejandro_hernandez_C
 
+***
+
+## Conclusión
+Basándome en las implementaciones realizadas, considero que C++ es más adecuado para el proyecto del CGEA debido a sus características avanzadas como el manejo de excepciones, soporte para programación orientada a objetos y bibliotecas estándar modernas que simplifican el desarrollo de sistemas complejos. Recomiendo que el equipo de desarrollo considere estas ventajas para garantizar escalabilidad y mantenimiento del sistema en el futuro.
+
+
 # HASTA LUEGO RUBEN!!
