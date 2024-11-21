@@ -1,3 +1,4 @@
-C:/Users/esteb/CLionProjects/examen-parcial3-esteban-arosemena-alejandro-hernandez/cmake-build-debug/CMakeFiles/examen_parcial3_esteban_arosemena_alejandro_hernandez.dir
-C:/Users/esteb/CLionProjects/examen-parcial3-esteban-arosemena-alejandro-hernandez/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/esteb/CLionProjects/examen-parcial3-esteban-arosemena-alejandro-hernandez/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/aleja/CLionProjects/examen-parcial3-esteban-arosemena-alejandro-hernandez/cmake-build-debug/CMakeFiles/examen_parcial3_esteban_arosemena_alejandro_hernandez_CPP.dir
+C:/Users/aleja/CLionProjects/examen-parcial3-esteban-arosemena-alejandro-hernandez/cmake-build-debug/CMakeFiles/examen_parcial3_esteban_arosemena_alejandro_hernandez_C.dir
+C:/Users/aleja/CLionProjects/examen-parcial3-esteban-arosemena-alejandro-hernandez/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aleja/CLionProjects/examen-parcial3-esteban-arosemena-alejandro-hernandez/cmake-build-debug/CMakeFiles/rebuild_cache.dir
