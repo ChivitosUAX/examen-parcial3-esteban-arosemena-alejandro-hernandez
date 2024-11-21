@@ -2,6 +2,10 @@
 
 https://github.com/ChivitosUAX/examen-parcial3-esteban-arosemena-alejandro-hernandez.git
 
+**INTEGRANTES:**
+- Esteban Arosemenea
+- Alejandro Hernandez
+
 ***
 
 ### Mas abajo luego de las preguntas opcion multiple esta la explicacion del codigo.
