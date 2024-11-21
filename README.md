@@ -4,6 +4,7 @@ https://github.com/ChivitosUAX/examen-parcial3-esteban-arosemena-alejandro-herna
 
 ***
 
+### Mas abajo luego de las preguntas opcion multiple esta la explicacion del codigo.
 ## **Parte 1: Preguntas de elección múltiple (20%)**
 
 **¿Cuál es la principal diferencia entre la estructura básica del programa en C y C++?**
